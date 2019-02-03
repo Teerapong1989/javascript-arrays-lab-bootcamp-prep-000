@@ -25,5 +25,5 @@ function appendKitten(name){
 }
 
 function prependKitten(name){
-  var 
+  var newKiiens = 
 }
